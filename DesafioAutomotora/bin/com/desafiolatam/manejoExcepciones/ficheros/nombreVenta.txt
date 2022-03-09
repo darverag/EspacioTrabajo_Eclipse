@@ -1,0 +1,4 @@
+Patente del vehiculo: FJJS25
+Edad del cliente es 55
+Fecha de venta: 25012022
+El tipo de venta es Crédito

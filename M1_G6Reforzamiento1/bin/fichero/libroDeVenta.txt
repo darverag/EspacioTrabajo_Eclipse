@@ -1,0 +1,4 @@
+La patente del vehiculo es: PC6705.txt
+La edad del cliente es: 27.txt
+La fecha de venta es: 20220114.txt
+El nombre del archivo es: venta1.txt

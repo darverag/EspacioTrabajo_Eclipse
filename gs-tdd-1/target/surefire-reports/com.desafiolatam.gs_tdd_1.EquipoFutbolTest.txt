@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.desafiolatam.gs_tdd_1.EquipoFutbolTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.203 s - in com.desafiolatam.gs_tdd_1.EquipoFutbolTest

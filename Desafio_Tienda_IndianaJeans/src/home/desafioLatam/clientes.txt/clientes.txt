@@ -1,0 +1,24 @@
+Camisa;
+658974;
+Negro;
+Camisa manga corta hombre;
+Levis;
+12990;
+L;
+
+jeans;
+254163;
+azul;
+Pantalon slimfit mujer;
+Levis;
+16990;
+40;
+
+Polera;
+785621;
+blanco;
+Polera sin mangas, estampado juvenil mujer;
+Wados;
+9990;
+S;
+
